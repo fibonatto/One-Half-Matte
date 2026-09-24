@@ -48,7 +48,7 @@ let s:string    = {"gui": s:hue_4,     "cterm": "NONE"}
 let s:function  = {"gui": s:hue_2,     "cterm": "NONE"}
 let s:variable  = {"gui": s:hue_5,     "cterm": "NONE"}
 let s:number    = {"gui": s:hue_6,     "cterm": "NONE"}
-let s:visual    = {"gui": "#d8d6d7",   "cterm": "NONE"}
+let s:visual    = {"gui": "#d8d6d7",   "cterm": "253"}
 let s:gutter    = {"gui": s:syntax_gutter, "cterm": "NONE"}
 
 
